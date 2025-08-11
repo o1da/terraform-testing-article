@@ -1,0 +1,1 @@
+This is example code for an article about native Terraform testing.
